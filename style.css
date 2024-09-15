@@ -10,3 +10,8 @@ body {
     font-size: large;
 
 }
+
+.image-home {
+    width: 200px;
+    border: 1px solid black;
+}
